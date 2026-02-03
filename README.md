@@ -68,3 +68,9 @@ You can add more gestures by:
 2. Adding it to the `IMAGE_PATHS` dictionary
 
 3. Implementing logic in `classify_gesture()` to detect that gesture
+
+
+"""
+Author: Anant Kumar Agnihotri
+Enhanced and debugged independently.
+"""
