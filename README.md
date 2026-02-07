@@ -69,8 +69,3 @@ You can add more gestures by:
 
 3. Implementing logic in `classify_gesture()` to detect that gesture
 
-
-## Project Source / Reference
-This project was built by following and learning from online resources (Instagram / YouTube tutorials).
-The goal was to understand practical implementation and improve my hands-on skills.
-
