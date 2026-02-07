@@ -74,4 +74,4 @@ You can add more gestures by:
 ## Project Source / Reference
 This project was built by following and learning from online resources (Instagram / YouTube tutorials).
 The goal was to understand practical implementation and improve my hands-on skills.
-"""
+
